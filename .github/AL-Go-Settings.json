@@ -2,7 +2,7 @@
   "powerPlatformSolutionFolder": "TakeOrder",
   "PullRequestTrigger": "pull_request",
   "type": "PTE",
-  "templateUrl": "https://github.com/Microsoft/al-go-pte@preview",
-  "templateSha": "8fedaa0bba2cf96f8b2b0c57b7d4ba88e9c7069b",
+  "templateUrl": "https://github.com/businesscentralapps/tmpn5coPv-PTE@main",
+  "templateSha": "990e0ebb40905ef329af24e308c06ead6c4e0f2b",
   "MicrosoftTelemetryConnectionString": ""
 }
